@@ -5,7 +5,7 @@ title: "About Me"
 entries_layout: list
 ---
 
-I am a theoretical physicist, working on statistical fluid dynamics in geophysical context.
+I am a theoretical fluid dynamicist, working on turbulence in geophysical systems.
 
 My research interests include:
 
