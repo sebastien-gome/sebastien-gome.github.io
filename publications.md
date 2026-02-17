@@ -7,7 +7,7 @@ permalink: /publications/
 ## Publications
 
 ### 2026
-- Author, S. (2026). *Title*. Journal.
+- *Waves drive large-scale 2D flows in rotating turbulence and cause their demise*, S. Gomé & A. Frishman, arxiv preprint.
 
 ### 2025
-- Author, S. (2025). *Title*. Journal.
+- *Phase transition to turbulence via moving fronts*, S. Gomé, A. Rivière, L.S. Tuckerman & D. Barkley, Physical Review Letters
