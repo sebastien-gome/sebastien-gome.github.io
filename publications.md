@@ -24,8 +24,8 @@ https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/patte
   [Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/patterns-in-transitional-shear-turbulence-part-2-emergence-and-optimal-wavelength/5A2EBC8F992B3B1A7301747FAE1B7AFB){:target="_blank"}
 
 ### 2022
-- **S. Gomé, L.S. Tuckerman & D. Barkley**, *`Extreme events in transitional turbulence*,  [Philosophical Transactions of the  Royal Society](\href{https://royalsocietypublishing.org/doi/full/10.1098/rsta.2021.0036)
+- **S. Gomé, L.S. Tuckerman & D. Barkley**, *`Extreme events in transitional turbulence*,  [Philosophical Transactions of the  Royal Society](\href{https://royalsocietypublishing.org/doi/full/10.1098/rsta.2021.0036){:target="_blank"}
 
 ### 2020
 
-- **S. Gomé, L.S. Tuckerman & D. Barkley**, *`Statistical transition to turbulence in plane channel flow*,  [Physical Review Fluids](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.5.083905)
+- **S. Gomé, L.S. Tuckerman & D. Barkley**, *`Statistical transition to turbulence in plane channel flow*,  [Physical Review Fluids](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.5.083905){:target="_blank"}
