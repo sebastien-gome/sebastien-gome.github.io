@@ -5,6 +5,8 @@ title: "About Me"
 entries_layout: list
 ---
 
+<div class="intro-grid">
+
 <div class="intro-image">
   <img src="/assets/images/SG.png" alt="Sebastien_Gome>
 </div>
@@ -14,6 +16,7 @@ I am a theoretical fluid dynamicist, working on turbulence in geophysical system
 
 I develop analytical and numerical approaches to undestand the statistics and dynamics of fluid motions, waves and coherent structures. 
 </div>
+
 
 
 My research interests include:
@@ -26,8 +29,6 @@ My research interests include:
 This website is under construction.
 
 </div>
-
-
 </div>
 
 <div class="feature__wrapper">
