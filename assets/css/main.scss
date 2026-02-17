@@ -124,14 +124,14 @@ hr {
 
 .intro-grid {
   display: grid;
-  grid-template-columns: 20% 80%;  /* image | text */
+  grid-template-columns: 10% 90%;  /* image | text */
   align-items: center;
   gap: 3rem;
   margin-bottom: 4rem;
 }
 
 .intro-image img {
-  width: 100%;
+  width: 80%;
   max-width: 300px;   /* absolute max size */
 }
 
