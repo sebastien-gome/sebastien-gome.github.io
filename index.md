@@ -7,6 +7,10 @@ entries_layout: list
 
 I am a theoretical fluid dynamicist, working on turbulence in geophysical systems.
 
+I develop analytical and numerical approaches to study the statistics and dynamics of fluid motions, waves and coherent structures. 
+
+
+
 My research interests include:
 
 - Effect of rotation on turbulence
@@ -21,22 +25,22 @@ This website is under construction.
 
 <div class="feature__item">
   <div class="archive__item">
-    <h3>Rotation</h3>
-    <p>Effect of planetary rotation on turbulence.</p>
+    <h3>Self-organization of turbulence</h3>
+    <p> Waves, large-scale coherent motions. Analytical perturbative approaches, statistical closures, coupled with simulations. </p>
   </div>
 </div>
 
 <div class="feature__item">
   <div class="archive__item">
-    <h3>Self-Organization</h3>
-    <p>Emergence of zonal jets and coherent structures.</p>
+    <h3> Phase transitions in wall-bounded flows </h3>
+    <p> The ways of emergence of turbulence in wall-bounded flows, like pipe or Couette flow, are still mostly a mystery to us. </p>
   </div>
 </div>
 
 <div class="feature__item">
   <div class="archive__item">
-    <h3>Perturbative Closures</h3>
-    <p>Systematic derivation of turbulent closures.</p>
+    <h3>Extreme events </h3>
+    <p>Abrupt dynamical events can occur in fluctuating systems. </p>
   </div>
 </div>
 
