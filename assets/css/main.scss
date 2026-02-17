@@ -38,6 +38,12 @@ a {   /*all links in normal space*/
     width: 200px !important;
   }
 }
+@media (min-width: 64em) {
+  .homepage.layout--single .page {
+    padding-right: 0 !important;
+    width: 100% !important;
+  }
+}
 
 /* ======= Site Title (Top Left)  ============= */
 .site-title {
