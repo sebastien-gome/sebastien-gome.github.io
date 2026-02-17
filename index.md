@@ -49,14 +49,15 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 <div class="feature__item">
   <div class="archive__item">
     <h3>Self-organization of turbulence</h3>
-    <p> Waves, large-scale coherent motions. Analytical perturbative approaches, statistical closures, coupled with simulations. </p>
+    <p> Sometimes, but not all the time, turbulence is organized. That is, chaotic fluctuations generate strong large-scale and persistent motions, as the ones in the atmosphere or the oceans. Find out how waves can lead to such "anti-diffusive" behavior here!  </p>
   </div>
 </div>
 
 <div class="feature__item">
   <div class="archive__item">
-    <h3> Phase transitions to turbulence in shear flows </h3>
-    <p> The ways of emergence of turbulence in wall-bounded flows, like pipe or Couette flow, are still mostly a mystery to us. </p>
+    <h3> Phase transition to turbulence in shear flows </h3>
+    <p> The ways that turbulence emerges in wall-bounded flows, like pipe or Couette flow, has remained a mystery for more than a century. Today, we have evidence that turbulence propagates via a percolation process described by universal statistical laws. Find out more about my works on the transition to turbulence here.
+    </p>
   </div>
 </div>
 
