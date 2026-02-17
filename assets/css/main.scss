@@ -127,6 +127,9 @@ hr {
 /* ===== columns === */
 
 .feature__wrapper {
+  max-width: 1000px;
+  margin-left: 5rem;
+  margin-right: 2rem;
   display: flex;
   gap: 3rem;   /*spacing*/
 }
