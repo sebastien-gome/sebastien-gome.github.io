@@ -7,6 +7,7 @@ title: "About Me"
 entries_layout: list
 ---
 
+<div class="intro-section">
 <div class="intro-grid">
 
 <div class="intro-image">
@@ -23,6 +24,8 @@ entries_layout: list
 </div>
 
 </div>
+</div>
+
 
 <div class="intro-text-bottom">
 
