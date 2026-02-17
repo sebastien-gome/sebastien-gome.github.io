@@ -124,7 +124,7 @@ hr {
 
 .intro-grid {
   display: grid;
-  grid-template-columns: 40% 60%;  /* image | text */
+  grid-template-columns: 20% 80%;  /* image | text */
   align-items: center;
   gap: 3rem;
   margin-bottom: 4rem;
@@ -132,9 +132,9 @@ hr {
 
 .intro-image img {
   width: 100%;
-  max-width: 420px;   /* absolute max size */
+  max-width: 300px;   /* absolute max size */
 }
 
 .intro-text {
-  max-width: 650px;   /* control text width */
+  max-width: 900px;   /* control text width */
 }
