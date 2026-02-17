@@ -69,12 +69,12 @@ hr {
 }
 .masthead {
   background-color: #ffffff;  /* keep white */
-  border-bottom: 1px solid #1f3a60;  /* deep academic blue */
+  border-bottom: 1px solid #1f3a60;   /*The horizontal line separating the navigation bar from the page content.*/
 }
 
 .masthead a {
   color: #1f3a60;  /* deep academic blue */
-  border-bottom: 2px solid transparent;
+  text-decoration: none; 
 }
 
 .masthead a:hover {
