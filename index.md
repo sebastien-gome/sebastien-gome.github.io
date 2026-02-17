@@ -4,7 +4,6 @@ sidebar: false
 classes: wide
 author_profile: false
 title: "About Me"
-entries_layout: list
 ---
 
 <div class="intro-section">
@@ -67,5 +66,14 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
     <p>Abrupt dynamical events can occur in fluctuating systems. </p>
   </div>
 </div>
+
+</div>
+
+
+<div class="research-updates">
+
+- **January 2026.** Paper on rotating turbulence submitted to PRL.  
+- **October 2025.** Invited talk at APS DFD.  
+- **June 2025.** Joined the Technion as postdoctoral fellow.  
 
 </div>
