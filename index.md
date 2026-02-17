@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-## About Me
-
 I am a theoretical physicist, working on statistical fluid dynamics in geophysical context.
 
 My research interests include:
