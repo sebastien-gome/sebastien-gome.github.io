@@ -203,6 +203,9 @@ hr {
   color: #5f7c99;
 }
 
-.layout--home .archive {
+.layout--home .archive__subtitle,
+.layout--home .archive__item-excerpt,
+.layout--home .archive__item-title,
+.layout--home .page__meta {
   display: none;
 }
