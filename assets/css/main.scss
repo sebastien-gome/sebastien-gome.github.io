@@ -207,20 +207,21 @@ hr {
   max-width: 1000px;   /* control text width */
   margin-left: 10rem;
   margin-right: 2rem;
-}
-.research-updates ul {
-  list-style: none;
-  padding-left: 0;
+  list-style: none;       /* remove bullet */
+  padding-left: 0;        /* remove left indent */
 }
 
+
 .research-updates li {
-  margin-bottom: 1rem;
-  font-family: "Georgia", serif;
-  font-size: 1rem;
-  color: #333;
+  margin-bottom: 0.8rem;
+  position: relative;
+  padding-left: 1.2rem;   /* space for dash */
 }
+
 .research-updates li::before {
-  content: "— ";
-  color: #5f7c99;
+  content: "–";           /* dash (en dash) */
+  position: absolute;
+  left: 0;
+  color: #5f7c99;         /* your blue-grey */
 }
 
