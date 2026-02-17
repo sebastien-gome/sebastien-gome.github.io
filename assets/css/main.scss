@@ -150,6 +150,12 @@ hr {
 
 /* =======  INTRO =======  */
 
+.intro-section {
+  background-color: #f0f4f8;   /* very pale blue-grey */
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
 .intro-grid {
   display: grid;
   grid-template-columns: 22% 78%;  /* image | text */
