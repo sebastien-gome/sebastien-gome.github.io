@@ -88,7 +88,12 @@ hr {
 .masthead__menu-item a::after {
   border-bottom: 2px solid #5f7c99 !important;
 }
-
+.masthead__menu-item a:hover::after {
+  border-bottom: 2px solid #5f7c99 !important;
+}
+.masthead__menu-item--active a::after {
+  border-bottom: 2px solid #5f7c99 !important;
+}
 
 
 
