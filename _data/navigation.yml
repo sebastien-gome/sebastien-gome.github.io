@@ -12,7 +12,8 @@ main:
     url: /teaching/
 
   - title: "CV"
-    url: /cv/
+    url: /assets/files/CV_Sebastien_Gome.pdf
+    target: _blank
 
   - title: "Contact"
     url: /contact/
