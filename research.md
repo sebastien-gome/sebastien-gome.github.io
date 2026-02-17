@@ -7,7 +7,7 @@ permalink: /research/
 
 My research focuses on statistical and geophysical fluid dynamics.
 
-### 1. Rotation and Turbulence
+### 1. Self-organized turbulence {#self-organized}
 
 Description here.
 
