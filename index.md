@@ -7,7 +7,7 @@ entries_layout: list
 
 I am a theoretical fluid dynamicist, working on turbulence in geophysical systems.
 
-I develop analytical and numerical approaches to study the statistics and dynamics of fluid motions, waves and coherent structures. 
+I develop analytical and numerical approaches to undestand the statistics and dynamics of fluid motions, waves and coherent structures. 
 
 
 
@@ -20,6 +20,13 @@ My research interests include:
 
 This website is under construction.
 
+</div>
+
+<div class="intro-image">
+  <img src="/assets/images/SG.jpg" alt="Flow field">
+</div>
+
+</div>
 
 <div class="feature__wrapper">
 
