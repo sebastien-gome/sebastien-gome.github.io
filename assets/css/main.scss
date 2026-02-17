@@ -50,8 +50,20 @@ hr {
   border-top: 1px solid #e5e8ec;
   margin: 2rem 0;
 }
-
+/* ===== Header === */
 .masthead__menu-item {
   font-family: "Helvetica Neue", sans-serif;
-  font-size: 0.95rem;
+  font-size: 1.1rem;
+}
+.masthead {
+  background-color: #ffffff;  /* keep white */
+  border-bottom: 1px solid #e5e8ec;
+}
+
+.masthead a {
+  color: #1f3a60;  /* deep academic blue */
+}
+
+.masthead a:hover {
+  color: #5f7c99;  /* blue-grey hover */
 }
