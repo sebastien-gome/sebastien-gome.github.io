@@ -229,7 +229,9 @@ hr {
 
 .keyword {
   font-weight: 600;
-  color: #5b84b5;   /*  grey */
+  color: #5b84b5;   /*  light blue-grey */
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 .keyword a {
