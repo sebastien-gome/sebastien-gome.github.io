@@ -75,7 +75,9 @@ hr {
 }
 
 .masthead a:hover {
-  color: #5f7c99;  /* blue-grey hover */
+  color: #5f7c99;
+  text-decoration: underline;
+  text-decoration-color: #5f7c99;
 }
 
 /* ===== page layout === */
