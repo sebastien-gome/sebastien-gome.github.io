@@ -72,8 +72,7 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 ### Updates
 <div class="research-updates">
 
-- **January 2026.** Paper on rotating turbulence submitted to PRL.  
-- **October 2025.** Invited talk at APS DFD.  
-- **June 2025.** Joined the Technion as postdoctoral fellow.  
+ <li><strong>January 2026.</strong> Paper submitted to PRL.</li>
+ <li><strong>October 2025.</strong> Invited talk at APS DFD.</li>
 
 </div>
