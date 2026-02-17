@@ -84,3 +84,13 @@ hr {
   margin-left: auto;
   margin-right: auto;
 }
+/* ===== columns === */
+
+.feature__wrapper {
+  display: flex;
+  gap: 2rem;
+}
+
+.feature__item {
+  flex: 1 1 30%;
+}
