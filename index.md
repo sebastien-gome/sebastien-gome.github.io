@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: home
 author_profile: true
 title: "About Me"
+entries_layout: list
 ---
 
 I am a theoretical physicist, working on statistical fluid dynamics in geophysical context.
