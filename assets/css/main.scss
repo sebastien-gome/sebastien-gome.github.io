@@ -27,10 +27,11 @@ a {   /*all links in normal space*/
 .layout--home .sidebar {
   display: none !important;
 }
+/*  Sets the regular page size by overwriting layout:single */
 @media (min-width: 64em) {
   .layout--single .page {
-    width: calc(100% - 220px) !important;
-    padding-right: 220px !important;
+    width: calc(100% - 200px) !important;
+    padding-right: 200px !important;
   }
 
   .layout--single .sidebar {
@@ -134,7 +135,7 @@ hr {
   flex: 1 1 30%;
 }
 .home .feature__wrapper {
-  max-width: 1200px;
+  max-width: 1000px;
   margin-left: 5rem;
   margin-right: auto;
 }
@@ -157,11 +158,11 @@ hr {
 }
 
 .intro-text {
-  max-width: 1000px;   /* control text width */
+  max-width: 800px;   /* control text width */
 }
 .intro-text-bottom {
-  max-width: 1200px;   /* control text width */
-  margin-left: 4rem;
+  max-width: 1000px;   /* control text width */
+  margin-left: 5rem;
   margin-right: 4rem;
 }
 
