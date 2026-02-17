@@ -82,14 +82,15 @@ hr {
   text-decoration: none;
   transition: color 0.25s ease;
 }
+.masthead__menu-item a:hover {
+  color: #5f7c99;
+ }
 .masthead__menu-item a::after {
   background-color: #5f7c99 !important;
 }
 
-.masthead__menu-item a:hover {
-  color: #5f7c99;
-  border-bottom: 1.5px solid #5f7c99;
-}
+
+
 
 /* ===== page layout === */
 .page__content {
