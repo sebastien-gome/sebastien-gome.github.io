@@ -1,0 +1,12 @@
+title: "Sébastien Gomé"
+name: "Sébastien Gomé"
+description: "Theoretical researcher in geophysical and statistical fluid dynamics"
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
