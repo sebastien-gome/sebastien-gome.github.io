@@ -1,5 +1,7 @@
 ---
 layout: home
+sidebar: false
+classes: wide
 author_profile: false
 title: "About Me"
 entries_layout: list
