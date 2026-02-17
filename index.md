@@ -16,7 +16,7 @@ entries_layout: list
     I am a theoretical fluid dynamicist, working on turbulence in geophysical systems.
    </p>  
    <p>
-    I develop analytical and numerical approaches to undestand the statistics and dynamics of fluid motions, waves and coherent structures. 
+    I develop analytical and numerical approaches to undestand the statistics and dynamics of fluid motions, waves and large-scale structures. 
     </p>
 </div>
 
