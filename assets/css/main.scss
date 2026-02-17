@@ -116,7 +116,15 @@ hr {
   border-bottom: 2px solid #5f7c99 !important;
 }
 
+/* ===== Homepage Layout Overrides ===== */
 
+.homepage .page__content {
+  max-width: 1400px;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  padding-left: 0em;
+  padding-right: 0em;
+}
 
 /* ===== page layout === */
 .page__content {
@@ -203,9 +211,3 @@ hr {
   color: #5f7c99;
 }
 
-.layout--home .archive__subtitle,
-.layout--home .archive__item-excerpt,
-.layout--home .archive__item-title,
-.layout--home .page__meta {
-  display: none;
-}
