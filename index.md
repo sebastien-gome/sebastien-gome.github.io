@@ -49,7 +49,7 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 <div class="feature__item">
   <div class="archive__item">
     <h3>Self-organization of turbulence</h3>
-    <p> Sometimes, but not all the time, turbulence is organized. That is, chaotic fluctuations generate strong <span class="keyword">large-scale</span> and <span class="keyword">persistent</span> motions, like the ones we see in the atmosphere or the oceans. Find out why internal waves could drive this phenomenon <a href="/research/#self-organized" class="keyword">here</a>.!  </p>
+    <p> Sometimes, but not all the time, turbulence is organized. That is, chaotic fluctuations generate strong <span class="keyword">large-scale</span> and <span class="keyword">persistent</span> motions, like the ones we see in the atmosphere or the oceans. Find out why internal waves could drive this phenomenon <a href="/research/#self-organized" class="keyword">here</a>!  </p>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 <div class="feature__item">
   <div class="archive__item">
     <h3>Extreme events </h3>
-    <p>Abrupt dynamical events can occur in chaotic systems. They can be rare but fatal. To estimate their occurrence efficiently, novel numerical methods must be designed. See <a href="/research/#extreme" class="keyword">here</a> how they can be applied to shear-flow turbulence. </p>
+    <p>Abrupt dynamical events can occur in chaotic systems. They can be rare but fatal. To estimate their occurrence efficiently, novel numerical methods must be designed. See <a href="/research/#extreme" class="keyword">here</a> how they can be applied to shear-flow turbulence! </p>
   </div>
 </div>
 
