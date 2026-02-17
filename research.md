@@ -4,7 +4,6 @@ title: "Research Overview"
 permalink: /research/
 ---
 
-## Research Overview
 
 My research focuses on statistical and geophysical fluid dynamics.
 
