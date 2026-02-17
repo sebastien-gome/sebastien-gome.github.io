@@ -38,10 +38,11 @@ a {   /*all links in normal space*/
     width: 200px !important;
   }
 }
+/*  also overwrites layout:home */
 @media (min-width: 64em) {
-  .homepage.layout--single .page {
-    padding-right: 0 !important;
+  .layout--single.homepage .page {
     width: 100% !important;
+    padding-right: 0 !important;
   }
 }
 .homepage #main {
