@@ -73,6 +73,6 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 
 ### Updates
 <ul class="research-updates">
-  <li><strong> September 2025.</strong> I reveived the Young Scientist Award from the European Mechanics Society, at the 2nd European Fluid Dynamics Conference in Dublin.</li>
+  <li><strong> September 2025.</strong> I reveived the <a href="https://euromech.org/prizes/young/" class="keyword">Young Scientist Award</a> from the European Mechanics Society, at the 2nd European Fluid Dynamics Conference in Dublin.</li>
   <li><strong> March 2023.</strong> My paper, "Patterns in shear turbulence (Part 2)" was Runner-up in the Emergent JFM Scholar Prize! </strong> .</li>
 </ul>
