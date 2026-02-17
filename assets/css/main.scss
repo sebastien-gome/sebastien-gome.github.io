@@ -64,14 +64,15 @@ hr {
   margin: 2rem 0;
 }
 /* ===== Header === */
+
+.masthead {
+  background-color: #ffffff;  /* keep white */
+  border-bottom: 1px solid #1f3a60;   /*The horizontal line separating the navigation bar from the page content.*/
+}
 .masthead__menu-item {
   font-family: "Helvetica Neue", "Arial", sans-serif;
   font-size: 1rem;
   font-weight: 500;
-}
-.masthead {
-  background-color: #ffffff;  /* keep white */
-  border-bottom: 1px solid #1f3a60;   /*The horizontal line separating the navigation bar from the page content.*/
 }
 
 .masthead__menu-item a {
