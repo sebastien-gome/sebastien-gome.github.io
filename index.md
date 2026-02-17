@@ -31,7 +31,6 @@ majoring in Fluid Dynamics and minoring in Modelisation of Complex Systems.
 </p>
 </div>
 
-
 My research interests include:
 
 - Effect of rotation on turbulence
