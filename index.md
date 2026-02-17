@@ -32,8 +32,8 @@ I am a post-doctoral fellow in the Department of Physics at the Technion, workin
 <a href="https://phsites.technion.ac.il/frishman/" target="_blank" class="keyword">
 Anna Frishman's
 </a> statistical hydrodynamics group.
-Previously, I did my PhD under the supervision of <a href="https://blog.espci.fr/laurette/" target="_blank" class="keyword">  Laurette Tuckerman </a> and <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/" target="_blank" class="keyword">  Dwight Barkley </a> in Sorbonne Université in Paris (at the <a href="https://www.pmmh.espci.fr/-Home-" target="_blank" >PMMH lab  </a>  - EPSCI Paris). 
-Previously, I graduated in Mechanical Engineering at Ecole polytechnique and in Aerospace Engineering at ISAE-Supaero. 
+Previously, I did my PhD under the supervision of <a href="https://blog.espci.fr/laurette/" target="_blank" class="keyword">  Laurette Tuckerman </a> and <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/" target="_blank" class="keyword">  Dwight Barkley </a> at Sorbonne Université in Paris (at the <a href="https://www.pmmh.espci.fr/-Home-" target="_blank" >PMMH lab  </a>  - EPSCI Paris). 
+Previously, I graduated in Mechanical Engineering at Ecole Polytechnique and in Aerospace Engineering at ISAE-Supaero. 
 <br>
 <br>
 My research interests include: out-of-equilibrium statistical physics, multiple-scale analysis, shear flows, pattern formation,
