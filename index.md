@@ -70,9 +70,7 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 </div>
 
 ### Updates
-<div class="research-updates">
-
-<li><strong>January 2026.</strong> Paper submitted to PRL.</li>
-<li><strong>October 2025.</strong> Invited talk at APS DFD.</li>
-
-</div>
+<ul class="research-updates">
+  <li><strong>January 2026.</strong> Paper submitted to PRL.</li>
+  <li><strong>October 2025.</strong> Invited talk at APS DFD.</li>
+</ul>
