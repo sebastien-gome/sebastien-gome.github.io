@@ -32,7 +32,7 @@ This website is under construction.
 
 <div class="feature__item">
   <div class="archive__item">
-    <h3> Phase transitions in wall-bounded flows </h3>
+    <h3> Phase transitions to turbulence in shear flows </h3>
     <p> The ways of emergence of turbulence in wall-bounded flows, like pipe or Couette flow, are still mostly a mystery to us. </p>
   </div>
 </div>
