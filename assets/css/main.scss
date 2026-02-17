@@ -242,4 +242,9 @@ hr {
 .keyword a:hover {
   color: #1f3a60;   /*  deep blue on hover */
 }
-
+a.keyword {
+  text-decoration: none;
+}
+a.keyword:hover {
+  text-decoration: none !important;
+}
