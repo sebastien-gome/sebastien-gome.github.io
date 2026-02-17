@@ -23,7 +23,7 @@ This website is under construction.
 </div>
 
 <div class="intro-image">
-  <img src="/assets/images/SG.jpg" >
+  <img src="/assets/images/SG.jpg" alt="Sebastien_Gome>
 </div>
 
 </div>
