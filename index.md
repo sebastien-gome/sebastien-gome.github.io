@@ -32,7 +32,6 @@ My research interests include:
 This website is under construction.
 
 </div>
-</div>
 
 <div class="feature__wrapper">
 
