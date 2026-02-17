@@ -17,7 +17,7 @@ collections:
 
 header:
   nav:
-    - title: "Research"
+    - title: "Research Overview"
       url: /research/
     - title: "Publications"
       url: /publications/
