@@ -17,7 +17,16 @@ a {   /*all links in normal space*/
   text-decoration: none;
 }
 
+/* Force full-width archive on the home layout */
+.layout--home .archive {
+  width: 100% !important;
+  padding-right: 0 !important;
+}
 
+/* If a sidebar still exists in DOM, hide it */
+.layout--home .sidebar {
+  display: none !important;
+}
 
 /* ======= Site Title (Top Left)  ============= */
 .site-title {
