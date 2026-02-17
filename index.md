@@ -12,9 +12,12 @@ entries_layout: list
 </div>
 
 <div class="intro-text">
-I am a theoretical fluid dynamicist, working on turbulence in geophysical systems.
-
-I develop analytical and numerical approaches to undestand the statistics and dynamics of fluid motions, waves and coherent structures. 
+   <p>
+    I am a theoretical fluid dynamicist, working on turbulence in geophysical systems.
+   </p>  
+   <p>
+    I develop analytical and numerical approaches to undestand the statistics and dynamics of fluid motions, waves and coherent structures. 
+    </p>
 </div>
 
 
