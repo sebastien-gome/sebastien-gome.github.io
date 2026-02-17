@@ -20,13 +20,16 @@ entries_layout: list
     </p>
 </div>
 
+</div>
+
+<div class="intro-text-bottom">
 <p>
 I am currently a post-doctoral fellow in the Technion (Department of Physics), working in Anna Frishman's statistical hydrodynamics group.
 Previously, I did my PhD under the supervision of Laurette Tuckerman and Dwight Barkley, in Sorbonne Université in Paris (PMMH lab).
 Previously, I graduated both in Mechanical Engineering at Ecole polytechnique and in Aerospace Engineering in ISAE-Supaero, 
-majoring in Fluid Dynamics and minoring in Modelisation of Complex Systems.
-  
+majoring in Fluid Dynamics and minoring in Modelisation of Complex Systems.  
 </p>
+</div>
 
 
 My research interests include:
@@ -38,7 +41,6 @@ My research interests include:
 
 This website is under construction.
 
-</div>
 
 <div class="feature__wrapper">
 
