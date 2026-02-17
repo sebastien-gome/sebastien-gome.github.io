@@ -49,7 +49,7 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 <div class="feature__item">
   <div class="archive__item">
     <h3>Self-organization of turbulence</h3>
-    <p> Sometimes, but not all the time, turbulence is organized. That is, chaotic fluctuations generate strong large-scale and persistent motions, as the ones we see in the atmosphere or the oceans. Find out how waves can lead to such "anti-diffusive" behavior <a href="/research/#self-organized">here</a>.!  </p>
+    <p> Sometimes, but not all the time, turbulence is organized. That is, chaotic fluctuations generate strong <span class="keyword">large-scale and persistent motions</span>, like the ones we see in the atmosphere or the oceans. Find out how waves can lead to such "anti-diffusive" behavior <a href="/research/#self-organized">here</a>.!  </p>
   </div>
 </div>
 
