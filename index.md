@@ -34,19 +34,13 @@ I am currently a post-doctoral fellow in the Department of Physics at the Techni
 Anna Frishman's
 </a> statistical hydrodynamics group.
 Previously, I did my PhD under the supervision of <a href="https://blog.espci.fr/laurette/" target="_blank">  Laurette Tuckerman </a>  and <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/" target="_blank" >  Dwight Barkley </a>, in Sorbonne Université in Paris (<a href="https://www.pmmh.espci.fr/-Home-" target="_blank" > PMMH lab  </a>  /EPSCI Paris). 
-Previously, I graduated both in Mechanical Engineering at Ecole polytechnique and in Aerospace Engineering in ISAE-Supaero, 
-majoring in Fluid Dynamics and minoring in Modelisation of Complex Systems.  
+Previously, I graduated both in Mechanical Engineering at Ecole polytechnique and in Aerospace Engineering in ISAE-Supaero.
 
 </div>
 
-My research interests include:
+My research interests include: out-of-equilibrium statistical physics, perturbative approaches, multiple-scale analysis, shear flows, pattern formation,
+internal waves, instabilties and transition to turbulence, wave turbulence and dynamical and stochastic systems.
 
-- Effect of rotation on turbulence
-- Perturbative approaches and turbulent closures
-- Self-organization of turbulence from waves dynamics
-- Shear flows and emergence of turbulence
-
-This website is under construction.
 
 
 <div class="feature__wrapper">
