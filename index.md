@@ -37,7 +37,7 @@ Previously, I did my PhD under the supervision of <a href="https://blog.espci.fr
 Previously, I graduated both in Mechanical Engineering at Ecole polytechnique and in Aerospace Engineering in ISAE-Supaero. 
 
 
-My research interests include: out-of-equilibrium statistical physics, perturbative approaches, multiple-scale analysis, shear flows, pattern formation,
+My research interests include: out-of-equilibrium statistical physics, multiple-scale analysis, shear flows, pattern formation,
 internal waves, instabilties and transition to turbulence, wave turbulence and dynamical and stochastic systems.
 
 </div>
