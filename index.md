@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: single
 sidebar: false
-classes: wide
 author_profile: false
+classes: homepage
 title: "About Me"
 ---
 
