@@ -23,7 +23,7 @@ This website is under construction.
 </div>
 
 <div class="intro-image">
-  <img src="/assets/images/SG.jpg" alt="Flow field">
+  <img src="/assets/images/SG.jpg"
 </div>
 
 </div>
