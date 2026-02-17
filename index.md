@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 sidebar: false
 classes: wide
 author_profile: false
