@@ -1,3 +1,4 @@
+---
 title: "First Research Update"
 date: 2026-02-17
 categories: research
