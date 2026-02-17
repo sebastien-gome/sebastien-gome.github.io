@@ -56,7 +56,7 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 <div class="feature__item">
   <div class="archive__item">
     <h3> Phase transition to turbulence in shear flows </h3>
-    <p> The ways that turbulence emerges in wall-bounded flows, like pipe or Couette flow, has remained a mystery for more than a century. Today, we have evidence that turbulence propagates via a percolation process described by universal statistical laws. Find out more about my works on the transition to turbulence <a href="/research/#shear">here</a>.
+    <p> The ways that turbulence emerges in wall-bounded flows, like pipe or Couette flow, has remained a mystery for more than a century. Today, we have evidence that turbulence propagates via a percolation process described by <span class="keyword">universal statistical laws</span>. Find out more about my works on the transition to turbulence <a href="/research/#shear">here</a>.
     </p>
   </div>
 </div>
