@@ -44,6 +44,10 @@ a {   /*all links in normal space*/
     width: 100% !important;
   }
 }
+.homepage #main {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
 
 /* ======= Site Title (Top Left)  ============= */
 .site-title {
