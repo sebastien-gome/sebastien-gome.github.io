@@ -15,3 +15,7 @@ My research interests include:
 - Shear flows and emergence of turbulence
 
 This website is under construction.
+
+collections:
+  posts:
+    output: false
