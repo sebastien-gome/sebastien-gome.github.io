@@ -69,7 +69,7 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 
 </div>
 
-## Updates
+### Updates
 <div class="research-updates">
 
 - **January 2026.** Paper on rotating turbulence submitted to PRL.  
