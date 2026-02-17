@@ -127,8 +127,8 @@ hr {
 /* ===== columns === */
 
 .feature__wrapper {
-  max-width: 1000px;
-  margin-left: 5rem;
+  max-width: 1200px;
+  margin-left: 2rem;
   margin-right: 2rem;
   display: flex;
   gap: 3rem;   /*spacing*/
@@ -138,13 +138,13 @@ hr {
   flex: 1 1 30%;
 }
 .home .feature__item {
-   max-width: 1000px;
-   margin-left: 5rem;
+   max-width: 1200px;
+   margin-left: 6rem;
    margin-right: 2rem;
 }
-.home .feature__wrapper {
-  max-width: 1000px;
-  margin-left: 5rem;
+.home .feature__wrapper {  /* not sure it's read */
+  max-width: 1200px;
+  margin-left: 6rem;
   margin-right: 2rem;
 }
 
