@@ -27,16 +27,7 @@ a {   /*all links in normal space*/
 .layout--home .sidebar {
   display: none !important;
 }
-@media (min-width: 64em) {
-  .layout--single .page {
-    width: calc(100% - 220px) !important;
-    padding-right: 220px !important;
-  }
 
-  .layout--single .sidebar {
-    width: 200px !important;
-  }
-}
 
 /* ======= Site Title (Top Left)  ============= */
 .site-title {
