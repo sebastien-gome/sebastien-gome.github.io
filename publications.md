@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Publications
 
 
 - *Waves drive large-scale 2D flows in rotating turbulence and cause their demise*  
