@@ -71,6 +71,6 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 
 ### Updates
 <ul class="research-updates">
-  <li><strong>January 2026.</strong> Paper submitted to PRL.</li>
-  <li><strong>October 2025.</strong> Invited talk at APS DFD.</li>
+  <li><strong> September 2025.</strong> I was awarded the Young Scientist Award from Euromech, at the European Fluid Dynamics Conference.</li>
+  <li><strong> March 2023. My paper, "Patterns in shear turbulence (Part 2)" was Runner-up in the Emergent JFM Scholar Prize! </strong> .</li>
 </ul>
