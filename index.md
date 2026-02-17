@@ -6,7 +6,7 @@ entries_layout: list
 ---
 
 <div class="intro-image">
-  <img src="/assets/images/SG.jpg" alt="Sebastien_Gome>
+  <img src="/assets/images/SG.png" alt="Sebastien_Gome>
 </div>
 
 <div class="intro-text">
