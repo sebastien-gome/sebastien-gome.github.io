@@ -5,7 +5,6 @@ permalink: /publications/
 ---
 
 
-
 - *Waves drive large-scale 2D flows in rotating turbulence and cause their demise*  
   **S. Gomé & A. Frishman**  
   arXiv preprint
