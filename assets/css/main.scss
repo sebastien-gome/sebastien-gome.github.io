@@ -1,0 +1,27 @@
+---
+# Only the front matter is required
+---
+
+@import "minimal-mistakes";
+
+/* ===== Custom Typography ===== */
+
+body {
+  font-size: 18px;
+}
+
+.page__title {
+  font-size: 2.4rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+.feature__item h3 {
+  font-size: 1.5rem;
+}
