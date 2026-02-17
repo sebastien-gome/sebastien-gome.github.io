@@ -19,7 +19,6 @@ a {   /*all links in normal space*/
 
 a:hover {
   color: #5f7c99;  /* blue-grey hover */
- /* border-bottom: 2px solid #5f7c99;   /*bottom underline on hover */  */
 }
 
 /* ======= Site Title (Top Left)  ============= */
@@ -54,7 +53,7 @@ h3 {
 }
 
 .feature__item h3 {
-   font-size: 1.5rem;
+   font-size: 1.2rem;
 }
 /* ===== Horizontal Rule  === */
 hr {
@@ -75,6 +74,7 @@ hr {
 
 .masthead a {
   color: #1f3a60;  /* deep academic blue */
+  border-bottom: 2px solid transparent;
 }
 
 .masthead a:hover {
