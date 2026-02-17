@@ -14,3 +14,16 @@ kramdown:
 collections:
   posts:
     output: false
+
+header:
+  nav:
+    - title: "Research"
+      url: /research/
+    - title: "Publications"
+      url: /publications/
+    - title: "Teaching"
+      url: /teaching/
+    - title: "CV"
+      url: /cv/
+    - title: "Contact"
+      url: /contact/
