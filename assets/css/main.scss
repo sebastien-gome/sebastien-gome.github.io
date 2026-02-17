@@ -120,7 +120,21 @@ hr {
   margin-right: auto;
 }
 
-/* ---- INTRO   */
+/* =======  INTRO =======  */
 
-.intro-text { flex: 1 1 60%; }
-.intro-image { flex: 1 1 40%; }
+.intro-grid {
+  display: grid;
+  grid-template-columns: 40% 60%;  /* image | text */
+  align-items: center;
+  gap: 3rem;
+  margin-bottom: 4rem;
+}
+
+.intro-image img {
+  width: 100%;
+  max-width: 420px;   /* absolute max size */
+}
+
+.intro-text {
+  max-width: 650px;   /* control text width */
+}
