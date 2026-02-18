@@ -33,13 +33,15 @@ Description here.
 
 ### 3.  Shear Flow turbulence {#shear}
 
-In wall-bounded shear flows (like pipe, plane Couette or plane Poiseuille flow) turbulence appears, not by increasing its intensity, but by
-occupying an increasing proportion of space as Reynolds number is increased. 
-In previous studies of canonical straight
-pipe or planar flows, transition occurs via the percolation of
-discrete turbulent structures that individually decay or self-
-replicate. Large-scale mean flow plays a crucial role in these
-systems by selecting these discrete structures.
+There are two possibilites for turbulence to emerge in a flow: instabilities (like the shedding of vortices when wind comes to meet a mountain), or finite-amplitude kicks. 
+Wall-bounded shear flows (like pipe, plane Couette or plane Poiseuille flow) are in the latter category, called a subcritical system. There, turbulence emerges, not by increasing its intensity, but by
+occupying an increasing proportion of space as the flow forcing (i.e the Reynolds number) is increased. 
+This spatial propagation is dictated by the presence of localized, essentially discrete, large-scale turbulent structures, called puffs in pipe flow and bands in planar flows.
+Transition to turbulence occurs via the percolation of these structures, which individually decay or self-replicate. 
+However, <span class="keyword">is this mechanism universal to all subcritical flows?</span>
+
+In my PhD thesis, I showed how a large-scale mean flow plays a crucial role in these systems by selecting the size of these discrete structures. The mean flow energizes turbulence from fresh incoming laminar flow, allowing it to stay statistically localized in space and create these individual structures. However, when this large-scale flow is suppressed, discrete structures disappear, and turbulence contaminates the flow via the propagation or retraction of small-scale vortices. This propagation scenario occurs via fluctuating turbulent fronts and also arises in curved or body-forced pipes. Surprisingly, while exhibiting a different propagation mechanism than in classical pipe or planar flows, these systems may still obey the same universal statistics. 
+Indeed, in both cases, generic scaling laws of out-of-equilibrium phase transitions might occur if the transition to turbulence evolves continuously with the Reynolds number.
 
 ### 4. Extreme events in turbulence
 Description here.
