@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-My research lies at the intersection of <span class="keyword">statistical</span> and <span class="keyword"> geophysical fluid dynamics</span>. I investigate how and why turbulence spontaneously generates large-scale structures. To address this, I develop <span class="keyword">perturbative</span> and <span class="keyword">multiple-scale theories</span>, complemented by numerical simulations. I also study the nonlinear dynamics of <span class="keyword">waves</span> and <span class="keyword">shear flows</span>, with particular emphasis on <span class="keyword">transition to turbulence</span> and <span class="keyword">rare-event dynamics</span>.
+My research lies at the intersection of <span class="keyword">statistical</span> and <span class="keyword"> geophysical fluid dynamics</span>. I investigate how and why turbulence spontaneously generates large-scale structures. To address this, I develop <span class="keyword">perturbative</span> and <span class="keyword">multiple-scale theories</span>, complemented by numerical simulations. I also study the nonlinear dynamics of <span class="keyword">waves</span> and <span class="keyword">shear flows</span>, with particular emphasis on <span class="keyword">transition to turbulence</span> and <span class="keyword">extreme-event dynamics</span>.
 
 
 ### 1. Self-organized turbulence {#self-organized}
