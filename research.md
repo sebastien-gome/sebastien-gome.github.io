@@ -16,7 +16,7 @@ Classical three-dimensional fluids, however, do not obey such a constraint, as t
 But then, <span class="keyword">why do some three-dimensional flows exhibit large-scale motions?</span>
 
 
-<figure class="fig-medium">
+<figure class="fig-large">
   <img src="/assets/images/snapshots.jpeg"
        alt="Rotating turbulence">
   <figcaption>
