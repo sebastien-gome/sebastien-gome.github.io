@@ -13,7 +13,7 @@ My research lies at the intersection of <span class="keyword">Statistical Physic
 When it is constrained by external forces like rotation, gravity or a magnetic field, a fluid often exhibits large-scale coherent motions which come to dominate its dynamics.
 In idealized setups (like two-dimensional turbulence), this remarkable property can be traced to the presence of two quadratic sign-definite quantities, dynamically conserved at scales where energy injection and dissipation are too slow or absent. These two invariants constrain energy to accumulate at large scales (in an "inverse cascade" phenomenology). 
 Classical three-dimensional fluids, however, do not obey such a constraint, as they conserve energy and helicity, the latter being sign-indefinite. This causes energy to flow to small scales.
-But then, <span class="keyword">how come do some three-dimensional flows exhibit large-scale motions?</span>
+But then, <span class="keyword">why do some three-dimensional flows exhibit large-scale motions?</span>
 
 
 In this research, I study how solid-body rotation comes to modify 3D flows and generate large-scale, effectively two-dimensional structures (aligned with the rotation axis).
