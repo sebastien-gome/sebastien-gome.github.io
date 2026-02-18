@@ -64,7 +64,7 @@ Indeed, in both cases, generic scaling laws of out-of-equilibrium phase transiti
   <img src="/assets/images/instanton1.png"
        alt="Extreme events in turbulence">
   <figcaption>
-    <strong>Figure 3.</strong> Realizations of propagation events in shear flows.
+    <strong>Figure 3.</strong> Realizations of turbulence propagation events in shear flows.
   </figcaption>
 </figure>
 
