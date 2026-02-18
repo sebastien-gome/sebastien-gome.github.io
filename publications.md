@@ -26,3 +26,8 @@ https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/patte
 ### 2020
 
 - **S. Gomé, L.S. Tuckerman & D. Barkley**, *`Statistical transition to turbulence in plane channel flow*,  [Physical Review Fluids](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.5.083905){:target="_blank"}.
+
+
+### Thesis manuscript
+
+[Transition to turbulence in planar shear flows](https://cnrs.hal.science/tel-03935299/){:target="_blank"}, under the supervision of Laurette Tuckerman and Dwight Barkley.
