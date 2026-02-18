@@ -50,7 +50,7 @@ However, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.
   <img src="/assets/images/bands_JFM.png"
        alt="Shear flow turbulence">
   <figcaption>
-    <strong>Figure 2.</strong> Large-scale pattern formation in planar shear flows.
+    <strong>Figure 2.</strong> Formation of large-scale patterns in planar shear flows.
   </figcaption>
 </figure>
 
