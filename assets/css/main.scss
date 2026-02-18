@@ -261,7 +261,7 @@ a.keyword:hover {
 .fig-small {
   float: right;
   width: 250px;
-  margin: 0 0 1.2rem 2rem;
+  margin: 0 0 0rem 1.5rem;
 }
 
 /* Medium right-floating image */
@@ -275,6 +275,6 @@ a.keyword:hover {
 .fig-large {
   float: none;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 0 0.5rem;
   max-width: 600px;
 }
