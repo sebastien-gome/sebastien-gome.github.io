@@ -9,7 +9,7 @@ My research focuses on statistical and geophysical fluid dynamics.
 
 ### 1. Self-organized turbulence {#self-organized}
 
-When it is constrained by external forces like rotation, gravity or a magnetic field, turbulence often exhibits large-scale coherent motions which come to dominate the flow dynamics.
+When it is constrained by external forces like rotation, gravity or a magnetic field, a fluid often exhibits large-scale coherent motions which come to dominate the flow dynamics.
 In idealized setups (like 2D turbulence), this remarkable property can be traced to the presence of two quadratic sign-definite quantities, dynamically conserved at scales where energy injection and dissipation are too slow or absent. This two invariants constrain energy to accumulate at large scales in the flow (in an "inverse cascade" phenomenology). 
 Classical three-dimensional fluids, however, do not obey such a constraint, as they conserve energy and helicity, the latter being sign-indefinite. This causes energy to flow to small scales.
 But then, <span class="keyword">how come some three-dimensional flow exhibit large-scale motions?</span>
