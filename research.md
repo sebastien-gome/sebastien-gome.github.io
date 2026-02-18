@@ -27,7 +27,7 @@ References:
 
 - **S. Gomé & A. Frishman**, [*Waves drive large-scale 2D flows in rotating turbulence and cause their demise*](https://arxiv.org/abs/2509.18323){:target="_blank"}.
 
-<img src="/assets/images/snapshots_rotation.jpeg"
+<img src="/assets/images/snapshots.jpeg"
      alt="3D rotating flows"
      class="research-figure">
      
