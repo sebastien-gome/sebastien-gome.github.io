@@ -248,3 +248,9 @@ a.keyword {
 a.keyword:hover {
   text-decoration: none !important;
 }
+
+/* ===== Research page justification ===== */
+.research-page .page__content p {
+  text-align: justify;
+  hyphens: auto;
+}
