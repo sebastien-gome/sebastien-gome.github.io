@@ -257,9 +257,23 @@ a.keyword:hover {
 }
 
 /* Figures in Research */
-.research-figure {
+/* Small right-floating image */
+.fig-small {
   float: right;
-  width: 300px;
-  margin: 0 0 1rem 2rem;
+  width: 250px;
+  margin: 0 0 1.2rem 2rem;
 }
 
+/* Medium right-floating image */
+.fig-medium {
+  float: right;
+  width: 320px;
+  margin: 0 0 1.5rem 2rem;
+}
+
+/* Large centered figure */
+.fig-large {
+  display: block;
+  margin: 2.5rem auto;
+  max-width: 750px;
+}
