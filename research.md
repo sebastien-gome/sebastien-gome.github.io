@@ -5,7 +5,9 @@ permalink: /research/
 ---
 
 
-My research focuses on statistical and geophysical fluid dynamics.
+My research focuses on statistical and geophysical fluid dynamics. I develop perturbative theories for the mathematical modeling of eddy and wave turbulence, to describe how and why they can spontaneously generate large-scale structures. I am also interested on the nonlinear dynamics of shear flows, their instabilities and possible phase transitions.
+
+
 
 ### 1. Self-organized turbulence {#self-organized}
 
