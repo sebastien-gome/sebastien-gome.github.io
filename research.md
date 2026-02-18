@@ -24,7 +24,6 @@ In the other direction, when lowering the rotation, there are less waves and som
 
 References:
 - **S. Gomé & A. Frishman**, [*Helicity controls the direction of fluxes in rotating turbulence*](https://arxiv.org/pdf/2512.05253){:target="_blank"}.
-
 - **S. Gomé & A. Frishman**, [*Waves drive large-scale 2D flows in rotating turbulence and cause their demise*](https://arxiv.org/abs/2509.18323){:target="_blank"}.
 
 <img src="/assets/images/snapshots.jpeg"
