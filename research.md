@@ -16,9 +16,13 @@ Classical three-dimensional fluids, however, do not obey such a constraint, as t
 But then, <span class="keyword">why do some three-dimensional flows exhibit large-scale motions?</span>
 
 
-<img src="/assets/images/snapshots.jpeg"
-     alt="3D rotating flows"
-     class="fig-large">
+<figure class="fig-medium">
+  <img src="/assets/images/snapshots.jpeg"
+       alt="Rotating turbulence">
+  <figcaption>
+    <strong>Figure 1.</strong> Emergence of large-scale structures in rotating 3D turbulence.
+  </figcaption>
+</figure>
 
      
 In this research, I study how solid-body rotation comes to modify 3D flows and generate large-scale, effectively two-dimensional structures (aligned with the rotation axis).
