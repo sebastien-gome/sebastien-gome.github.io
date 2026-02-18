@@ -20,7 +20,7 @@ But then, <span class="keyword">why do some three-dimensional flows exhibit larg
   <img src="/assets/images/snapshots.jpeg"
        alt="Rotating turbulence">
   <figcaption>
-    <strong>Figure 1.</strong> Emergence of large-scale structures in rotating 3D turbulence.
+    <strong>Figure 1.</strong> Emergence of large-scale structures in rotating 3D turbulence in various geometries.
   </figcaption>
 </figure>
 
