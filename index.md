@@ -74,5 +74,5 @@ internal waves, instabilties and transition to turbulence, wave turbulence and d
 ### Updates
 <ul class="research-updates">
   <li><strong> September 2025.</strong> I reveived the <a href="https://euromech.org/prizes/young/" class="keyword">Young Scientist Award</a> from the European Mechanics Society, at the 2nd European Fluid Dynamics Conference in Dublin.</li>
-  <li><strong> March 2023.</strong> My paper,  <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/patterns-in-transitional-shear-turbulence-part-2-emergence-and-optimal-wavelength/5A2EBC8F992B3B1A7301747FAE1B7AFB" target="_blank" > Patterns in shear turbulence. Part 2. Emergence and optimal wavelengthd</a> was Runner-up in the Emergent JFM Scholar Prize! </li>
+  <li><strong> March 2023.</strong> My paper,  <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/patterns-in-transitional-shear-turbulence-part-2-emergence-and-optimal-wavelength/5A2EBC8F992B3B1A7301747FAE1B7AFB" target="_blank" class="keyword" > Patterns in shear turbulence. Part 2. Emergence and optimal wavelengthd</a> was Runner-up in the Emergent JFM Scholar Prize! </li>
 </ul>
