@@ -23,7 +23,7 @@ In the other direction, when lowering the rotation, there are less waves and som
 
 <img src="/assets/images/snapshots.jpeg"
      alt="3D rotating flows"
-     class="fig-large">
+     class="fig-medium">
 
 References:
 - **S. Gomé & A. Frishman**, [*Helicity controls the direction of fluxes in rotating turbulence*](https://arxiv.org/pdf/2512.05253){:target="_blank"}.
