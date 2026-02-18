@@ -48,6 +48,10 @@ Indeed, in both cases, generic scaling laws of out-of-equilibrium phase transiti
 
 ### 3. Extreme events in turbulence {#extreme}
 
+<img src="/assets/images/instanton1.png"
+     alt="Extreme events in turbulence"
+     class="fig-medium">
+     
 Turbulent flows can sometimes dratistically change configuration even if their fluctuations are relatively small. 
 This type of events are particularly hard to predict with numerical simulations, as they rely the "high cost" of a configuration change from the internal chaotic dynamics in the flow.
 Recently, new algorithms were designed to compute such rare dynamical events. They can be used to efficiently obtain transition probabilities, as well as relevant trajectories in phase space. 
