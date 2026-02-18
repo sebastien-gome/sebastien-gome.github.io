@@ -39,4 +39,10 @@ In my PhD thesis, I showed how an emergent mean flow plays a crucial role in the
 Indeed, in both cases, generic scaling laws of out-of-equilibrium phase transitions are expected if the fraction of turbulence evolves continuously with the Reynolds number.
 
 ### 3. Extreme events in turbulence
-Description here.
+
+Turbulent flows can sometimes dratistically change configuration even if their fluctuations are relatively small. 
+This type of events are particularly hard to predict with numerical simulations, as they rely the "high cost" of a configuration change from the internal chaotic dynamics in the flow.
+Recently, new algorithms were designed to compute such rare dynamical events. They can be used to efficiently obtain transition probabilities, as well as relevant trajectories in phase space. 
+Their use for fluid dynamics, like for computing when Jupiter's atmosphere will change, is very recent.
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.074502
