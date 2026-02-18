@@ -21,14 +21,15 @@ We show that the Coriolis force spontaneously generates internal waves (called i
 However, when rotation is sufficiently strong, 2D-waves interactions come to be depleted, due to a resonant effect. Therefore, in this limit, waves and 2D modes decouple: this is where a 3D-wave turbulent regime can be obtained, and where a purely 2D regime as well - depending on how the system is forced!
 In the other direction, when lowering the rotation, there are less waves and some modes break the helicity constraint: these modes create a forward energy cascade, which coexists with the inverse. This type of bi-directional scenario might actually <a href="https://www.science.org/doi/10.1126/sciadv.abq2566" class="keyword">be relevant in the ocean!</a>
 
+<img src="/assets/images/snapshots.jpeg"
+     alt="3D rotating flows"
+     class="fig-large">
 
 References:
 - **S. Gomé & A. Frishman**, [*Helicity controls the direction of fluxes in rotating turbulence*](https://arxiv.org/pdf/2512.05253){:target="_blank"}.
 - **S. Gomé & A. Frishman**, [*Waves drive large-scale 2D flows in rotating turbulence and cause their demise*](https://arxiv.org/abs/2509.18323){:target="_blank"}.
 
-<img src="/assets/images/snapshots.jpeg"
-     alt="3D rotating flows"
-     class="fig-large">
+
      
 
 ### 2.  Shear flow turbulence {#shear}
