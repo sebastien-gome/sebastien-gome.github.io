@@ -4,6 +4,13 @@
 
 @import "minimal-mistakes";
 
+/* Justify only the Research page */
+.layout--single.research-page .page__content p {
+  text-align: justify !important;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
 /* ===== Custom Typography ===== */
 
 body {
@@ -249,8 +256,3 @@ a.keyword:hover {
   text-decoration: none !important;
 }
 
-/* ===== Research page justification ===== */
-.research-page .page__content p {
-  text-align: justify;
-  hyphens: auto;
-}
