@@ -3,7 +3,7 @@ layout: single
 sidebar: false
 author_profile: false
 classes: homepage
-title: "About Me"
+title: ""
 ---
 
 <div class="intro-section">
