@@ -45,20 +45,29 @@ Turbulence in wall-bounded shear flows (like pipe, plane Couette or plane Poiseu
 This spatial propagation is dictated by the presence of localized, essentially discrete, large-scale turbulent structures, called puffs in pipe flow and bands in planar flows.
 Transition to turbulence is mediated by the decay of these structures, or their propagation by self-replication. 
 However, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.264002" class="keyword">is this mechanism universal to all subcritical flows?</a>
+     
+<figure class="fig-medium">
+  <img src="/assets/images/bands_JFM.png"
+       alt="Shear flow turbulence">
+  <figcaption>
+    <strong>Figure 2.</strong> Large-scale pattern formation in planar shear flows.
+  </figcaption>
+</figure>
 
-<img src="/assets/images/bands_JFM.png"
-     alt="Shear flow turbulence"
-     class="fig-medium">
      
 In my PhD thesis, I showed how an emergent mean flow plays a crucial role in these systems by selecting the size of these discrete structures. This large-scale mean flow energizes turbulence from fresh incoming laminar flow, allowing it to stay statistically localized in space and create these individual structures. However, when this large-scale flow is suppressed, discrete structures disappear, and turbulence contaminates the flow via the propagation or retraction of small-scale vortices. This propagation scenario occurs via fluctuating turbulent fronts and also arises in curved or body-forced pipes. Surprisingly, while exhibiting a different propagation mechanism than in classical pipe or planar flows, these systems may still obey the same universal statistics. 
 Indeed, in both cases, generic scaling laws of out-of-equilibrium phase transitions are expected if the fraction of turbulence evolves continuously with the Reynolds number.
 
 ### 3. Extreme events in turbulence {#extreme}
-
-<img src="/assets/images/instanton1.png"
-     alt="Extreme events in turbulence"
-     class="fig-medium">
      
+<figure class="fig-medium">
+  <img src="/assets/images/instanton1.png"
+       alt="Extreme events in turbulence">
+  <figcaption>
+    <strong>Figure 3.</strong> Realizations of propagation events in shear flows.
+  </figcaption>
+</figure>
+
 Turbulent flows can sometimes dratistically change configuration even if their fluctuations are relatively small. 
 This type of events are particularly hard to predict with numerical simulations, as they rely the "high cost" of a configuration change from the internal chaotic dynamics in the flow.
 Recently, new algorithms were designed to compute such rare dynamical events. They can be used to efficiently obtain transition probabilities, as well as relevant trajectories in phase space. 
