@@ -272,7 +272,7 @@ a.keyword:hover {
 }
 
 /* Large centered figure */
-.fig-large {
+figure.fig-large {
   float: none;
   display: block;
   margin: 0 auto;      /* perfectly centered */
@@ -280,4 +280,8 @@ a.keyword:hover {
 }
 figure.fig-large {
   margin-bottom: 0 !important;
+}
+figure.fig-large img {
+  width: 100%;
+  height: auto;
 }
