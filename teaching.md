@@ -4,7 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-### Teaching Assistant at Sorbonne Université (Département de Mécanique)
+### Teaching Assistant
+
+Sorbonne Université (Département de Mécanique, L2-L3):
 
 - Mathematical and numerical methods for mechanics
 
