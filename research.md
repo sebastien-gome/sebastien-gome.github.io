@@ -43,6 +43,6 @@ Indeed, in both cases, generic scaling laws of out-of-equilibrium phase transiti
 Turbulent flows can sometimes dratistically change configuration even if their fluctuations are relatively small. 
 This type of events are particularly hard to predict with numerical simulations, as they rely the "high cost" of a configuration change from the internal chaotic dynamics in the flow.
 Recently, new algorithms were designed to compute such rare dynamical events. They can be used to efficiently obtain transition probabilities, as well as relevant trajectories in phase space. 
-Their use for fluid dynamics, like for computing when Jupiter's atmosphere will change, is very recent.
+Their use for fluid dynamics, like for 
+[computing when Jupiter's atmosphere will change](\href{https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.074502){:target="_blank"}, is very recent.
 
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.074502
