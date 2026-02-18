@@ -31,7 +31,7 @@ References:
 
 ### 2.  Shear flow turbulence {#shear}
 
-There are two possibilites for turbulence to emerge in a flow: instabilities (like the shedding of vortices when wind comes to meet a mountain), or finite-amplitude kicks. 
+There are two possibilites for turbulence to emerge in a flow: instabilities (like the shedding of vortices when wind comes to face a mountain), or finite-amplitude kicks. 
 Wall-bounded shear flows (like pipe, plane Couette or plane Poiseuille flow) are in the latter category, called a subcritical system. There, turbulence emerges by occupying an increasing proportion of space as the flow forcing (i.e the Reynolds number) is increased. 
 This spatial propagation is dictated by the presence of localized, essentially discrete, large-scale turbulent structures, called puffs in pipe flow and bands in planar flows.
 Transition to turbulence is mediated by the decay or the propagation of these structures (by self-replication). 
