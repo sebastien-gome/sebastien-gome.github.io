@@ -6,8 +6,8 @@ permalink: /research/
 
 
 My research focuses on statistical and geophysical fluid dynamics. 
-I study how and why turbulence can spontaneously generate large-scale structures, and develop perturbative theories to describe and model this phenomenon.
-I am also interested in the nonlinear dynamics of shear flows, their instabilities and route to turbulence. 
+I study how and why turbulence can spontaneously generate large-scale structures, and develop perturbative theories to describe and model this phenomenon, coupled with numerical simulations.
+I am also interested in the nonlinear dynamics and instabilities of waves and shear flows, in particular the transition to turbulence and rare event computation.
 
 
 ### 1. Self-organized turbulence {#self-organized}
