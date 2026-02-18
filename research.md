@@ -29,7 +29,7 @@ References:
 
 <img src="/assets/images/snapshots.jpeg"
      alt="3D rotating flows"
-     class="research-figure">
+     class="fig-large">
      
 
 ### 2.  Shear flow turbulence {#shear}
@@ -42,7 +42,7 @@ However, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.
 
 <img src="/assets/images/bands_JFM.png"
      alt="Shear flow turbulence"
-     class="research-figure">
+     class="fig-medium">
      
 In my PhD thesis, I showed how an emergent mean flow plays a crucial role in these systems by selecting the size of these discrete structures. This large-scale mean flow energizes turbulence from fresh incoming laminar flow, allowing it to stay statistically localized in space and create these individual structures. However, when this large-scale flow is suppressed, discrete structures disappear, and turbulence contaminates the flow via the propagation or retraction of small-scale vortices. This propagation scenario occurs via fluctuating turbulent fronts and also arises in curved or body-forced pipes. Surprisingly, while exhibiting a different propagation mechanism than in classical pipe or planar flows, these systems may still obey the same universal statistics. 
 Indeed, in both cases, generic scaling laws of out-of-equilibrium phase transitions are expected if the fraction of turbulence evolves continuously with the Reynolds number.
