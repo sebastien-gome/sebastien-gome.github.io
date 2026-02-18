@@ -45,4 +45,4 @@ This type of events are particularly hard to predict with numerical simulations,
 Recently, new algorithms were designed to compute such rare dynamical events. They can be used to efficiently obtain transition probabilities, as well as relevant trajectories in phase space. 
 Their use for fluid dynamics, like for 
 [computing when Jupiter's atmosphere will change](\href{https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.074502){:target="_blank"}, is very recent.
-
+I applied such a numerical strategy for rare events [occuring in shear flows](\href{https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.074502){:target="_blank"} in the transitional regime.
