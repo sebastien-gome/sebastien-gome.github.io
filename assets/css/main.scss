@@ -275,7 +275,7 @@ a.keyword:hover {
 figure.fig-large {
   float: none;
   display: block;
-  margin: 0 auto;      /* perfectly centered */
+  margin: 0 auto 0 auto !important;
   max-width: 600px;
 }
 figure.fig-large {
