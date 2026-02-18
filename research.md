@@ -33,7 +33,7 @@ There are two possibilites for turbulence to emerge in a flow: instabilities (li
 Wall-bounded shear flows (like pipe, plane Couette or plane Poiseuille flow) are in the latter category, called a subcritical system. There, turbulence emerges, not by increasing its intensity, but by
 occupying an increasing proportion of space as the flow forcing (i.e the Reynolds number) is increased. 
 This spatial propagation is dictated by the presence of localized, essentially discrete, large-scale turbulent structures, called puffs in pipe flow and bands in planar flows.
-Transition to turbulence occurs via the percolation of these structures, which individually decay or self-replicate. 
+Transition to turbulence occurs via these structures either decaying or self-replicating. 
 However, <span class="keyword">is this mechanism universal to all subcritical flows?</span>
 
 In my PhD thesis, I showed how a large-scale mean flow plays a crucial role in these systems by selecting the size of these discrete structures. The mean flow energizes turbulence from fresh incoming laminar flow, allowing it to stay statistically localized in space and create these individual structures. However, when this large-scale flow is suppressed, discrete structures disappear, and turbulence contaminates the flow via the propagation or retraction of small-scale vortices. This propagation scenario occurs via fluctuating turbulent fronts and also arises in curved or body-forced pipes. Surprisingly, while exhibiting a different propagation mechanism than in classical pipe or planar flows, these systems may still obey the same universal statistics. 
