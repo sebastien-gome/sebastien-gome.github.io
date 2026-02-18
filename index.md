@@ -37,7 +37,7 @@ Previously, I graduated in Mechanical Engineering at Ecole Polytechnique (Paris)
 <br>
 <br>
 My research interests include: out-of-equilibrium statistical physics, multiple-scale analysis, shear flows, pattern formation,
-internal waves, instabilties and transition to turbulence, wave turbulence and dynamical and stochastic systems.
+internal waves, instabilities and transition to turbulence, wave turbulence and dynamical and stochastic systems.
 
 </div>
 
