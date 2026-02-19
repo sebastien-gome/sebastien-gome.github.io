@@ -175,6 +175,17 @@ hr {
   margin-left: 6rem;
   margin-right: 2rem;
 }
+/* Small screens   -----*/
+@media (max-width: 768px) {
+  .feature__wrapper {
+    flex-direction: column;
+  }
+  .feature__item {
+    flex: none;
+    width: 100%;
+  }
+
+}
 
 /* --- Hovering titles in 3 panels --- */
 
