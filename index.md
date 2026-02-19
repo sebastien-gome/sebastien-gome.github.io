@@ -61,7 +61,10 @@ internal waves, instabilities and transition to turbulence, wave turbulence and 
 
 <div class="feature__item">
   <div class="archive__item">
-    <h3> Phase transition to turbulence in shear flows </h3>
+     
+    <a href="/research/#shear" class="feature-link">
+    <h3>Phase transition to turbulence in shear flows</h3>
+    </a>
     <p> The conditions for turbulence to emerge in wall-bounded flows, like pipe or Couette flow, have remained a mystery for more than a century. Nowadays, we have evidence that turbulence propagates via a percolation process described by <span class="keyword">universal statistical laws</span>. Find out more about my works on the transition to turbulence  <a href="/research/#shear" class="keyword">here</a>.
     </p>
   </div>
@@ -69,7 +72,10 @@ internal waves, instabilities and transition to turbulence, wave turbulence and 
 
 <div class="feature__item">
   <div class="archive__item">
-    <h3>Extreme events </h3>
+    
+    <a href="/research/#extreme" class="feature-link">
+    <h3>Extreme events</h3>
+    </a>
     <p>Abrupt dynamical events can occur in chaotic systems. They can be rare but fatal. To estimate their occurrence efficiently, novel numerical methods must be designed. See <a href="/research/#extreme" class="keyword">here</a> how they can be applied to shear-flow turbulence! </p>
   </div>
 </div>
