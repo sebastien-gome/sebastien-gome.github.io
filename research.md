@@ -27,8 +27,8 @@ But then, <span class="keyword">why do some three-dimensional flows exhibit larg
      
 In this research, I study how solid-body rotation comes to modify 3D flows and generate large-scale, effectively two-dimensional structures (aligned with the rotation axis).
 We show that the Coriolis force spontaneously generates internal waves (called inertial waves), which, when interacting with large-scale two-dimensional modes, come to conserve an additional invariant: the wave helicity, but for each helicity sign. This additional, hidden invariant constrains the waves to generate and maintain large-scale 2D motions. This is an example of <span class="keyword">self-organization</span>: coherence spontaneously arises from fluctuating small-scale degrees of freedom (here the waves).
-However, when rotation is sufficiently strong, 2D-waves interactions come to be depleted, due to a resonant effect. Therefore, in this limit, waves and 2D modes decouple: this is where a 3D-wave turbulent regime can be obtained, and where a purely 2D regime as well - depending on how the system is forced!
-In the other direction, when lowering the rotation, there are less waves and some modes break the helicity constraint: these modes create a forward energy cascade, which coexists with the inverse. This type of bi-directional scenario might actually <a href="https://www.science.org/doi/10.1126/sciadv.abq2566" class="keyword">be relevant in the ocean!</a>
+However, when rotation is sufficiently strong, 2D-waves interactions come to be depleted, due to a resonant effect. Therefore, in the limit of very large rotation, waves and 2D modes decouple: this is where a 3D-wave turbulent regime can be obtained, and where a purely 2D regime as well - depending on how the system is forced!
+In the other direction, when lowering the rotation, waves are slower and can break the helicity constraint: these modes create a forward energy cascade, which coexists with the inverse. This type of bi-directional scenario might actually <a href="https://www.science.org/doi/10.1126/sciadv.abq2566" class="keyword">be relevant in the ocean!</a>
 
 
 References:
