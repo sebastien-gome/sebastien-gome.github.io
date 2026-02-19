@@ -176,6 +176,19 @@ hr {
   margin-right: 2rem;
 }
 
+.feature__item h3 a.feature-link {
+  color: #1f3a60;           /* deep academic blue */
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.feature__item h3 a.feature-link:hover {
+  color: #5f7c99;           /* light blue-grey */
+  text-decoration: none !important;
+}
+
+
+
 /* =======  INTRO =======  */
 
 .intro-section {
@@ -206,6 +219,7 @@ hr {
   margin-left: 10rem;
   margin-right: 2rem;
 }
+
 
 
 /* ===== Research Updates Title ===== */
