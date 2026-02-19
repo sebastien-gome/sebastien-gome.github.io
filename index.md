@@ -51,7 +51,7 @@ internal waves, instabilities and transition to turbulence, wave turbulence and 
     
     <h3>
     <a href="/research/#self-organized" class="feature-link">
-    <h3>Self-organization of turbulence</h3>
+    Self-organization of turbulence</h3>
     </a>
     </h3>
     <p> Sometimes, but not all the time, turbulence is organized. That is, chaotic fluctuations generate strong <span class="keyword">large-scale</span> and <span class="keyword">persistent</span> motions, like the ones we see in the atmosphere or the oceans. Find out why internal waves could drive this phenomenon <a href="/research/#self-organized" class="keyword">here</a>!  </p>
@@ -61,10 +61,11 @@ internal waves, instabilities and transition to turbulence, wave turbulence and 
 
 <div class="feature__item">
   <div class="archive__item">
-     
+    <h3>
     <a href="/research/#shear" class="feature-link">
-    <h3>Phase transition to turbulence in shear flows</h3>
+    Phase transition to turbulence in shear flows</h3>
     </a>
+    </h3>
     <p> The conditions for turbulence to emerge in wall-bounded flows, like pipe or Couette flow, have remained a mystery for more than a century. Nowadays, we have evidence that turbulence propagates via a percolation process described by <span class="keyword">universal statistical laws</span>. Find out more about my works on the transition to turbulence  <a href="/research/#shear" class="keyword">here</a>.
     </p>
   </div>
@@ -72,10 +73,11 @@ internal waves, instabilities and transition to turbulence, wave turbulence and 
 
 <div class="feature__item">
   <div class="archive__item">
-    
+    </h3>
     <a href="/research/#extreme" class="feature-link">
-    <h3>Extreme events</h3>
+    Extreme events
     </a>
+    </h3>
     <p>Abrupt dynamical events can occur in chaotic systems. They can be rare but fatal. To estimate their occurrence efficiently, novel numerical methods must be designed. See <a href="/research/#extreme" class="keyword">here</a> how they can be applied to shear-flow turbulence! </p>
   </div>
 </div>
