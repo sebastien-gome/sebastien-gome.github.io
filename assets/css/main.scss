@@ -176,27 +176,19 @@ hr {
   margin-right: 2rem;
 }
 
-.feature__item h3 a.feature-link {
-  color: #1f3a60;           /* deep academic blue */
-  text-decoration: none;
+/* --- Hovring titles in 3 panels --- */
+
+.homepage .page__content .feature__item h3 a.feature-link {
+  color: #1f3a60 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
   transition: color 0.2s ease;
 }
 
-.feature__item h3 a.feature-link:hover {
-  color: #5f7c99;           /* light blue-grey */
-  text-decoration: none !important;
-}
-.homepage .feature__item h3 a.feature-link:hover {
-  text-decoration: none !important;
-}
-
-.homepage .feature__item h3 a {
-  color: #1f3a60 !important;
-  text-decoration: none !important;
-}
-.homepage .feature__item h3 a:hover {
+.homepage .page__content .feature__item h3 a.feature-link:hover {
   color: #5f7c99 !important;
   text-decoration: none !important;
+  border-bottom: none !important;
 }
 
 /* =======  INTRO =======  */
