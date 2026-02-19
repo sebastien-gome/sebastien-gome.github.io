@@ -186,8 +186,18 @@ hr {
   color: #5f7c99;           /* light blue-grey */
   text-decoration: none !important;
 }
+.homepage .feature__item h3 a.feature-link:hover {
+  text-decoration: none !important;
+}
 
-
+.homepage .feature__item h3 a {
+  color: #1f3a60 !important;
+  text-decoration: none !important;
+}
+.homepage .feature__item h3 a:hover {
+  color: #5f7c99 !important;
+  text-decoration: none !important;
+}
 
 /* =======  INTRO =======  */
 
