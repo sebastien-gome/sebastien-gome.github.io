@@ -31,7 +31,7 @@ title: ""
 I am a post-doctoral fellow in the Department of Physics at the Technion, working in
 <a href="https://phsites.technion.ac.il/frishman/" target="_blank" class="keyword">
 Anna Frishman's
-</a> statistical hydrodynamics group.
+</a> statistical hydrodynamics group on large-scale flows in turbulence.
 Previously, I did my PhD under the supervision of <a href="https://blog.espci.fr/laurette/" target="_blank" class="keyword">  Laurette Tuckerman </a> and <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/" target="_blank" class="keyword">  Dwight Barkley </a> at Sorbonne Université in Paris (at the <a href="https://www.pmmh.espci.fr/-Home-" target="_blank" >PMMH lab  </a>  - EPSCI Paris), on the transition to turbulence in shear flows. 
 I graduated in Mechanical Engineering at Ecole Polytechnique (Paris) and in Aerospace Engineering at ISAE-Supaero (Toulouse). 
 <br>
