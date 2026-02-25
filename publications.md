@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ### 2026
+- **A. Frishman, S. Gomé & A. Svirsky**, *Conservation laws, fluxes, and symmetries: lessons from a perturbative approach for self-organized turbulence*, [arXiv preprint](https://arxiv.org/abs/2602.20067){:target="_blank"}.
 - **S. Gomé & A. Frishman**, *Helicity controls the direction of fluxes in rotating turbulence*, [arXiv preprint](https://arxiv.org/pdf/2512.05253){:target="_blank"}.
 
 ### 2025
