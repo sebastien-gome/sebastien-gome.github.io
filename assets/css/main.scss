@@ -311,3 +311,37 @@ figure.fig-large img {
   height: auto;
   margin-bottom: 0 !important;
 }
+
+
+
+/* ===== Mobile homepage intro ===== */
+@media (max-width: 768px) {
+  .homepage .intro-grid {
+    grid-template-columns: 1fr;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    gap: 1.5rem;
+    text-align: center;
+  }
+
+  .homepage .intro-image img {
+    width: 70%;
+    max-width: 260px;
+    min-width: 180px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .homepage .intro-text {
+    max-width: 100%;
+    text-align: left;
+  }
+
+  .homepage .intro-text-bottom,
+  .homepage .research-updates,
+  .homepage .feature__wrapper {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    max-width: none;
+  }
+}
