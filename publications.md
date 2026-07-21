@@ -9,7 +9,7 @@ permalink: /publications/
 - **A. Frishman, S. Gomé & A. Svirsky**, *Conservation laws, fluxes, and symmetries: lessons from a perturbative approach for self-organized turbulence*, [arXiv preprint](https://arxiv.org/abs/2602.20067){:target="_blank"}.
 
 ### 2025
-- **S. Gomé & A. Frishman**, *Waves drive large-scale 2D flows in rotating turbulence and cause their demise*, [arXiv preprint](https://arxiv.org/abs/2509.18323){:target="_blank"}.
+- **S. Gomé & A. Frishman**, *Waves drive large-scale 2D flows in rotating turbulence and cause their demise*, [Physical Review X](https://journals.aps.org/prx/pdf/10.1103/rjxp-pcy2){:target="_blank"}.
 
 ### 2024
 - **S. Gomé, A. Rivière, L.S. Tuckerman & D. Barkley**, *Phase transition to turbulence via moving fronts*,  [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.264002){:target="_blank"}.
