@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2026
 - **S. Gomé & A. Frishman**, *Helicity controls the direction of fluxes in rotating turbulence*, [arXiv preprint](https://arxiv.org/pdf/2512.05253){:target="_blank"}.
-- **A. Frishman, S. Gomé & A. Svirsky**, *Conservation laws, fluxes, and symmetries: lessons from a perturbative approach for self-organized turbulence*, [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta/article/384/2333/20250133/484087/Conservation-laws-fluxes-and-symmetries-lessons){:target="_blank"}[arXiv preprint](https://arxiv.org/abs/2602.20067){:target="_blank"}.
+- **A. Frishman, S. Gomé & A. Svirsky**, *Conservation laws, fluxes, and symmetries: lessons from a perturbative approach for self-organized turbulence*, [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta/article/384/2333/20250133/484087/Conservation-laws-fluxes-and-symmetries-lessons){:target="_blank"}, [arXiv preprint](https://arxiv.org/abs/2602.20067){:target="_blank"}.
 
 ### 2025
 - **S. Gomé & A. Frishman**, *Waves maintain large-scale 2D flows in rotating turbulence and cause their demise*, [Physical Review X](https://journals.aps.org/prx/pdf/10.1103/rjxp-pcy2){:target="_blank"}.
