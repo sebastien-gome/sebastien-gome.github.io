@@ -15,12 +15,13 @@ permalink: /cv/
 
 ### Education
 
-- <strong>PhD</strong> in Fluid Mechanics, Sorbonne Université &bull; Laboratory of Physics and Mechanics of Heterogeneous Media, ESPCI Paris (2023 - 2026)
-  Supervisors: Laurette Tuckerman & Dwight Barkley.
+- <strong>PhD</strong> in Fluid Mechanics, Sorbonne Université (2023 - 2026)
+   Laboratory of Physics and Mechanics of Heterogeneous Media, ESPCI Paris.
+   Supervisors: Laurette Tuckerman & Dwight Barkley.
 
 - <strong>ISAE-Supaero / University of Toulouse</strong> (2018 - 2019)
-    Master's Degree in Aerospace Engineering,
-    M.Sc in Fluid Dynamics, Energy and Heat Transfer.
+  Master's Degree in Aerospace Engineering,
+  M.Sc in Fluid Dynamics, Energy and Heat Transfer.
 
 - <strong>Ecole Polytechnique</strong>  (2015 - 2019)
     Master's Degree in Engineering (Dipl\^ome d'ingénieur)
