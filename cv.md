@@ -10,8 +10,8 @@ permalink: /cv/
 
 - <strong>Junior Research Scientist (Chargé de recherche)</strong>, CNRS &bull; Institut de Physique de Nice (2026)
 
-- <strong>Postdoctoral Researcher</strong>, Technion (Israel Institute of Technology) &bull; Department of Physics (2023 - 2026)<br>
-  Supervisor: Anna Frishman
+- <strong>Postdoctoral Researcher</strong>, Technion (Israel Institute of Technology) (2023 - 2026)<br>
+  Department of Physics. Supervisor: Anna Frishman
 
 ### Education
 
