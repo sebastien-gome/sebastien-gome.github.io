@@ -19,7 +19,7 @@ permalink: /cv/
    Laboratory of Physics and Mechanics of Heterogeneous Media, ESPCI Paris.<br>
    Supervisors: Laurette Tuckerman & Dwight Barkley.
 
-- <strong>ISAE-Supaero / University of Toulouse</strong> (2018 - 2019)<br>
+- <strong>ISAE-Supaero  &bull; University of Toulouse</strong> (2018 - 2019)<br>
   Master's Degree in Aerospace Engineering,<br>
   M.Sc in Fluid Dynamics, Energy and Heat Transfer.
 
