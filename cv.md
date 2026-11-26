@@ -1,8 +1,7 @@
-
 ---
 layout: single
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Publications"
+permalink: /publications/
 ---
 
 [Download my full CV (PDF)](/assets/files/CV_Sebastien_Gome.pdf)
