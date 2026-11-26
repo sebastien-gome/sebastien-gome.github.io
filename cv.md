@@ -21,7 +21,7 @@ permalink: /cv/
 
 - <strong>ISAE-Supaero  &bull; University of Toulouse</strong> (2018 - 2019)<br>
   Master's Degree in Aerospace Engineering,<br>
-  M.Sc in Fluid Dynamics, Energy and Heat Transfer.
+  M.Sc in Fluid Dynamics, Energy and Transfer.
 
 - <strong>Ecole Polytechnique</strong>  (2015 - 2019)<br>
     Master's Degree in Engineering, specialized in Mechanics.
