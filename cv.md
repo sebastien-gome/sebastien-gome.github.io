@@ -35,5 +35,6 @@ classes: cv-page
 ## Awards and distinctions
 
 - Euromech Young Scientist Award 2025
-- Runner-up in the JFM Emerging Scholar Best Paper Prize 2024, for the paper Patterns in transitional shear turbulence. Part 2.
+- Runner-up in the Journal of Fluid Mechanics Emerging Scholar Best Paper Prize 2024, for the paper [*Patterns in transitional shear turbulence. Part 2. Emergence and optimal wavelength*](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/patterns-in-transitional-shear-turbulence-part-2-emergence-and-optimal-wavelength/5A2EBC8F992B3B1A7301747FAE1B7AFB){:target="_blank"}.
+- Patterns in transitional shear turbulence. Part 2.
 Emergence and optimal wavelength.
