@@ -15,7 +15,7 @@ permalink: /cv/
 
 ### Education
 
-- <strong>PhD </strong> &bull  Sorbonne Université &bull Laboratory of Physics and Mechanics of Heterogeneous Media (ESPCI Paris) (2023 - 2026)
+- <strong>PhD </strong> &bull  Sorbonne Université &bull Laboratory of Physics and Mechanics of Heterogeneous Media, ESPCI Paris (2023 - 2026)
   Supervisors: Laurette Tuckerman & Dwight Barkley.
 
 - <strong>ISAE-Supaero / University of Toulouse </strong> (2018 - 2019)
