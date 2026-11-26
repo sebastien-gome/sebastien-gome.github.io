@@ -24,7 +24,7 @@ permalink: /cv/
   M.Sc in Fluid Dynamics, Energy and Heat Transfer.
 
 - <strong>Ecole Polytechnique</strong>  (2015 - 2019)<br>
-    Master's Degree in Engineering (Dipl\^ome d'ingénieur)
+    Master's Degree in Engineering, specialized in Mechanics.
 
 - <strong>Classe Préparatoire</strong>, Lycée Saint-Louis  (2013 - 2015)
 
