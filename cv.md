@@ -15,7 +15,7 @@ permalink: /cv/
 
 ### Education
 
-- <strong>PhD</strong> in Fluid Mechanics, Sorbonne Université (2023 - 2026)<br>
+- <strong>PhD in Fluid Mechanics</strong>, Sorbonne Université (2023 - 2026)<br>
    Laboratory of Physics and Mechanics of Heterogeneous Media, ESPCI Paris.<br>
    Supervisors: Laurette Tuckerman & Dwight Barkley.
 
