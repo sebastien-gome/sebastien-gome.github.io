@@ -8,14 +8,14 @@ permalink: /cv/
 
 ### Academic positions
 
-- <strong>Junior Research Scientist (Chargé de recherche)</strong>, CNRS &bull; Institut de Physique de Nice (2026)
+- <strong>Junior Research Scientist (Chargé de recherche)</strong>, CNRS &bull; Institut de Physique de Nice  (2026)
 
-- <strong>Postdoctoral Researcher</strong>, Technion (Israel Institute of Technology) (2023 - 2026)<br>
+- <strong>Postdoctoral Researcher</strong>, Technion - Israel Institute of Technology  (2023 - 2026)<br>
   Department of Physics. Supervisor: Anna Frishman
 
 ### Education
 
-- <strong>PhD in Fluid Mechanics</strong>, Sorbonne Université (2023 - 2026)<br>
+- <strong>PhD in Fluid Mechanics</strong>, Sorbonne Université  (2023 - 2026)<br>
    Laboratory of Physics and Mechanics of Heterogeneous Media, ESPCI Paris<br>
    Supervisors: Laurette Tuckerman & Dwight Barkley
 
